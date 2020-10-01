@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Vineet Gupta](https://github.com/illuminati490)
+- Place: India
+- Bio: Student at Galgotias University
+- GitHub: [Vineet Gupta](https://github.com/illuminati490)
